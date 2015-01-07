@@ -13,6 +13,7 @@ Svenska <br>
 Italiano <br> 
 русский <br> 
 Український <br> 
+Esperanto <br>
 
 ---
 
@@ -33,7 +34,6 @@ Chichewa <br>
 Croatian <br> 
 Czech <br> 
 Danish <br> 
-Esperanto <br> 
 Estonian <br> 
 Filipino <br> 
 Finnish <br> 
